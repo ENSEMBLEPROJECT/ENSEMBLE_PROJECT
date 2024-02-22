@@ -24,7 +24,7 @@ This project aims to figure out how electricity prices in France and Germany are
 * Boosting
 * Random Forest
 * ADA Boost
-* Boost Trees
+* Gradient Boost Trees
 
 ## Authors
 
